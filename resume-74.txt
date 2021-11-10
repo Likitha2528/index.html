@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		body{
+			padding: 30px;
+			border: 2px solid black;
+			margin-right: all;
+			
+		}
+	</style>
+</body>
+</head>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CURRICULUM VITAE</title>
+</head>
+<body>
+<b><u><h1 style="color:red"><center>RESUME</center></h1></u></b>
+<p style="background-color: violet;">
+<img src="C:\Users\User\Downloads\WhatsApp Image 2021-11-06 at 7.20.41 PM.jpeg"style="float:right;";width="110" height="110">
+<b>vindula likitha</b><br>
+D/O vindula srinivasa rao<br>
+D-NO:8-3<br>
+kondayyavalasa<br>
+aganampudi,vizag-530046<br>
+cell no:9381475619   gmail:<a href="https://accounts.google.com/signin/v2/challenge/pwd?service=mail&passive=1209600&osid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward&TL=AM3QAYYzQ0pCiGDAKsHWzOwW59i5i1PqX643ZkOG3BjKfMUitpYUv2TtMq24kzKl">likitha2528@gmail.com</a>
+</p><hr>
+<b><h3 style="color:blue">CAREER OBJECTIVE</h3></b>
+<hr>
+To work in an organisation which provides me with ample opportunities to enhance my skills and knowledge along with contributing to the growth of the organisation and looking forward to work for my dream which provide the chance to improve my skills to learn and grow
+
+<br>
+<b><h3 style="color:blue">INTERNSHIPS</h3></b>
+<hr>
+<b><u>polytechnic</u></b>
+<ul>
+	<li>programming c</li>
+	<li>pcb designing</li>
+	<li>CISCO networking</li>
+<b><u>b.tech</u></b>
+<ul>
+	<li>data base management system(DBMS)</li>
+	<li>python</li>
+</ul>
+</ul><br>
+<b><h3 style="color:blue">EDUCATION</h3></b>
+<hr>
+<!DOCTYPE html>
+<html>
+<style>
+	table,th,td{
+		border:1px solid black;
+	}
+</style>
+</html>
+<table>
+	<tr>
+		<th><b><h4>Qualification</h4></b></th>
+		<th><b><h4>school/college</h4></b></th>
+		<th><b><h4>name of the institute</h4></b></th>
+		<th><b><h4>year</h4></b></th>
+		<th><b><h4>percenteage/GPA</h4></b></th>
+	</tr>
+	<tr>
+		<td><center>b.tech</center></td>
+		<td><center>JNTUV</center></td>
+		<td><center>JNTU</center></td>
+		<td><center>2023</center></td>
+		<td><center>80</center></td>
+	</tr>
+	<tr>
+		<td>polytechnic</td>
+		<td><center>GPT</center></td>
+		<td><center>GPT</center></td>
+		<td><center>2019</center></td>
+		<td><center>91.02</center></td>
+	</tr>
+	<tr>
+		<td><center>school</center></td>
+		<td><center>STS</center></td>
+		<td><center>STS</center></td>
+		<td><center>2016</center></td>
+		<td><center>9.8</center></td>
+	</tr>
+</table><br>
+<b><h3 style="color:blue">SOFT SKILLS</h3></b>
+<hr>
+<ul>
+	<li>communication</li>
+	<li>leadership</li>
+	<li>teamwork</li>
+</ul><br>
+<b><h3 style="color:blue">PROGRAMMING SKILLS</h3></b>
+<hr>
+<ul>
+	<li>c programming</li>
+	<li>python programming</li>
+</ul><br>
+<b><h3 style="color:blue">HOBBIES</h3></b>
+<hr>
+<ul>
+	<li>doing puzzles</li>
+	<li>listening music</li>
+	<li>drawing</li>
+</ul>
+</body>
+</html>
